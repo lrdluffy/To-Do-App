@@ -120,7 +120,7 @@ java -jar target/to-do-app-0.0.1-SNAPSHOT.jar
 
 ## 👤 Author
 
-- lrdluffy – [GitHub](https://github.com/lrduffy)
+- lrdluffy – [GitHub](https://github.com/lrdluffy)
 
 ## 📄 License
 
